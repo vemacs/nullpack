@@ -114,7 +114,11 @@ item {
 
 symbol {
     B:alpine.enabled=true
+    B:arcana.enabled=true
+    B:arksiane.enabled=true
+    B:augite.enabled=true
     B:autumn_woods.enabled=true
+    B:azurite.enabled=true
     B:beach.enabled=true
     B:bioconhuge.enabled=true
     B:bioconlarge.enabled=true
@@ -148,6 +152,7 @@ symbol {
     B:denseores.enabled=true
     B:desert.enabled=true
     B:deserthills.enabled=true
+    B:dravite.enabled=true
     B:dungeons.enabled=true
     B:dusk.enabled=true
     B:enchanted_forest.enabled=true
@@ -185,6 +190,7 @@ symbol {
     B:ice_mountains.enabled=true
     B:ice_plains.enabled=true
     B:ice_wasteland.enabled=true
+    B:iceikamountians.enabled=true
     B:jungle.enabled=true
     B:junglehills.enabled=true
     B:lake_border.enabled=true
@@ -223,6 +229,7 @@ symbol {
     B:modmat_tile.log.oak.enabled=true
     B:modmat_tile.log.spruce.enabled=true
     B:modmat_tile.netherbrick.enabled=true
+    B:modmat_tile.oilstill.enabled=true
     B:modmat_tile.orecoal.enabled=true
     B:modmat_tile.orediamond.enabled=true
     B:modmat_tile.oregold.enabled=true
@@ -248,6 +255,7 @@ symbol {
     B:mushroomisland.enabled=true
     B:mushroomislandshore.enabled=true
     B:mushrooms.enabled=true
+    B:mythril.enabled=true
     B:netherfort.enabled=true
     B:night.enabled=true
     B:nohorizon.enabled=true
@@ -311,6 +319,7 @@ symbol {
     B:twilight_lake.enabled=true
     B:twilight_stream.enabled=true
     B:twilight_swamp.enabled=true
+    B:uvite.enabled=true
     B:villages.enabled=true
     B:void.enabled=true
     B:wasteland.enabled=true
