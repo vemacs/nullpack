@@ -146,6 +146,7 @@ symbol {
     B:colorskynight.enabled=true
     B:cryformcry.enabled=true
     B:cryformglow.enabled=true
+    B:cryformquartz.enabled=true
     B:dark_forest.enabled=true
     B:day.enabled=true
     B:dense_twilight_forest.enabled=true
